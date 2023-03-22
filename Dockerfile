@@ -1,4 +1,4 @@
-FROM node:10.24.1-slim
+FROM node:18-slim
 
 ENV PORT 3000
 ENV SLACK_INTERVAL 60000
