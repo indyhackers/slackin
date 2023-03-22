@@ -25,9 +25,9 @@
         "debug": "3.0.1",
         "email-regex": "1.0.0",
         "express": "4.15.4",
+        "gulp": "^4.0.2",
         "gulp-babel": "6.1.1",
         "gulp-rimraf": "0.2.0",
-        "gulp": "3.9.0",
         "hostenv": "1.0.1",
         "opentype.js": "0.4.4",
         "socket.io": "2.0.3",
@@ -43,7 +43,7 @@
         "supertest": "0.15.0"
     },
     "engines": {
-        "node": "10.24.1"
+        "node": "18.15.0"
     },
     "bin": {
         "slackin": "./bin/slackin"
